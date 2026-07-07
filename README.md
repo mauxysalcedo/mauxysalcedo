@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Mauxy Salcedo</h1>
+<h1 align="center">Hola , soy Mauxy Salcedo</h1>
 <h3 align="center">Analista de Negocios en formación | Administración de Empresas & Transformación Digital</h3>
 
 - 🔭 Actualmente estoy trabajando en [Análisis del poder adquisitivo del salario mínimo en Colombia](mauxysalcedo/Analisis-Salario-minimo-y-poder-adquisitivo-2016-2025))
